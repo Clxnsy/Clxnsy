@@ -14,8 +14,8 @@ Focus: cloud identity (Azure/Entra ID), ITSM automation, and infrastructure trou
 
 ## Featured Projects
 - **[northstar-support-operations](https://github.com/Clxnsy/northstar-support-operations)** — ITIL-aligned Jira service desk, 8-table SQL schema, 25 analytical queries
-- **[hybrid-cloud-ad-lab](https://github.com/Clxnsy/hybrid-cloud-ad-lab)** — On-prem AD + Azure Entra ID hybrid identity, PowerShell provisioning automation, Zero-Trust policies *(coming soon)*
-- **[it-operations-toolbox](https://github.com/Clxnsy/it-operations-toolbox)** — Bash/PowerShell scripts for log analysis, health checks, and hardening *(coming soon)*
+- **[hybrid-cloud-ad-lab](https://github.com/Clxnsy/hybrid-cloud-ad-lab)** — On-prem AD + Azure Entra ID hybrid identity, PowerShell provisioning automation, Zero-Trust policies
+- **[it-operations-toolbox](https://github.com/Clxnsy/it-operations-toolbox)** — Bash/PowerShell scripts for log analysis, health checks, and hardening
 
 ## Certifications
 - Atlassian JSM Fundamentals with AI (2026)
