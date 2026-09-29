@@ -19,4 +19,4 @@ Focus: cloud identity (Azure/Entra ID), ITSM automation, and infrastructure trou
 
 ## Certifications
 - Atlassian JSM Fundamentals with AI (2026)
-- CompTIA Security+ — expected Q3 2026
+- CompTIA A+ (2026)
